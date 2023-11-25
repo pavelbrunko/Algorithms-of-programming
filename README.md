@@ -10,4 +10,8 @@ The algorithm is considered educational, in practice (outside of the educational
 Quick sort, Hoare sort, often called qsort (by name in the C Standard Library) is a sorting algorithm developed by English computer scientist Tony Hoare during his work at Moscow State University in 1960.
 
 One of the fastest known universal array sorting algorithms: on average O(n log n) exchanges when ordering n elements; due to the presence of a number of disadvantages in practice, it is usually used with some modifications.
+
+3. Merge sort
+
+Merge sort is a sorting algorithm that arranges lists (or other data structures whose elements can only be accessed sequentially, for example, streams) in a certain order. This sorting is a good example of using the principle of "divide and conquer". First, the task is divided into several smaller subtasks. Then these tasks are solved using a recursive call or directly if their size is small enough. Finally, their solutions are combined, and a solution to the original problem is obtained.
 ___
